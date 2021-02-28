@@ -21,8 +21,9 @@
     border: 1px solid rgb(122, 120, 120);
     border-radius: 6px;
     margin-bottom: 10px;
+    cursor: pointer;
 }
 .cart-button:hover{
-    background-color: rgb(34, 146, 34);
-    color: white;
+    background-color: rgb(224, 191, 2);
+    color: #000;
 }
